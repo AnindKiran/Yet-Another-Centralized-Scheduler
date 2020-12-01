@@ -16,5 +16,6 @@ Each worker is run on a separate terminal.
 
 Now the requests file can be run. A log file is created and stored, which can subsequently be checked for analysis or errors.   
 
-Team Members:
+### Team Members:
+
 Srija, Nikitha, Rithwika, Anind

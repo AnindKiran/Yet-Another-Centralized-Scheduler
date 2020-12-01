@@ -4,7 +4,7 @@ This repository contains our files for the course **UE18CS322 - Big Data**.
 <br>
 
 To run the master, the following command may be used:
-> python3 master.py \[path to config.json file] \[algorithm name>]
+> python3 master.py \[path to config.json file] \[algorithm name]
 <br>
   
 To run the workers associated with the master, the following command is used:

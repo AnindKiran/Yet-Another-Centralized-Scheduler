@@ -1,4 +1,4 @@
-# YACS_BigDataProject
+# YACS - Final Big Data Project
 
 This repository contains our files for the course **UE18CS322 - Big Data**. 
 <br>

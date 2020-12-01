@@ -9,6 +9,12 @@ To run the master, the following command may be used:
   
 To run the workers associated with the master, the following command is used:
 > python3 worker.py \[portnumber] \[workerid]
+
+Each worker is run on a separate terminal. 
+
 <br>
 
 Now the requests file can be run. A log file is created and stored, which can subsequently be checked for analysis or errors.   
+
+Team Members:
+Srija, Nikitha, Rithwika, Anind

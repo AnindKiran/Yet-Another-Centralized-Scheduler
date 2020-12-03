@@ -16,7 +16,7 @@ j=dict()
 t=dict()
 
 # reading log file and creating dictionaries to store job, task and worker data
-with open(r"C:\Users\Nikitha\Documents\NIKITHA\Sem 5\BD\YACS\log.txt","r") as logfile:
+with open(r"log.txt","r") as logfile:
      lines = (line for line in (l.strip() for l in logfile) if line)
      for line in lines:
         algo=''
